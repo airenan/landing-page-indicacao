@@ -19,10 +19,8 @@
 .form-control {
     font-size: 14px;
 }
-}
+
 .footer {
     font-size: 10px;
-}
-.dev {
-    font-size: 10px;
+    background: linear-gradient(0deg, #a6f0fd , #fff);
 }
