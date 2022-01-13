@@ -16,6 +16,11 @@
     padding-right: 10px;
 }
 
+.px-10 {
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
 .form-control {
     font-size: 14px;
 }
