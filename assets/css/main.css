@@ -10,15 +10,11 @@
     background-color: #f1f1f1;
     padding: 50px 20px;
     border-radius: 5px;
+    
 }
 
 .pr-5 {
     padding-right: 10px;
-}
-
-.px-10 {
-    padding-left: 12%;
-    padding-right: 12%;
 }
 
 .form-control {
@@ -28,4 +24,27 @@
 .footer {
     font-size: 10px;
     background: linear-gradient(0deg, #a6f0fd , #fff);
+}
+
+.logo {
+    width: 100%;
+    max-width: 327px;
+}
+
+.img-logo {
+    width: 100%;
+    height: auto;
+}
+
+.img-whatsapp {
+    width: 20px;
+    height: auto;
+}
+.img-instagram {
+    width: 20px;
+    height: auto;
+}
+
+.form{
+    display: block;
 }
