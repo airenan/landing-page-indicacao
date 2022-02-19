@@ -4,6 +4,10 @@
     background-color: #fff;
 }
 
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
 .right {
     width: 100%;
     height: 210px;
@@ -20,6 +24,11 @@
 .footer {
     font-size: 10px;
     background-image: url(/assets/images/backgroundFooter.png);
+    background-repeat: repeat;
+    background-position: top;
+    background-size: contain;
+    width: 100%;
+    height: 70px;
 }
 
 .logo {
