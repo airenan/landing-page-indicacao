@@ -8,13 +8,9 @@
     width: 100%;
     height: 100%;
     background-color: #f1f1f1;
-    padding: 50px 20px;
+    padding: 20px 0 20px 0;
     border-radius: 5px;
-    
-}
 
-.pr-5 {
-    padding-right: 10px;
 }
 
 .form-control {
@@ -23,7 +19,7 @@
 
 .footer {
     font-size: 10px;
-    background: linear-gradient(0deg, #a6f0fd , #fff);
+    background: linear-gradient(0deg, #a6f0fd, #fff);
 }
 
 .logo {
@@ -40,11 +36,22 @@
     width: 20px;
     height: auto;
 }
+
 .img-instagram {
     width: 20px;
     height: auto;
 }
 
-.form{
+.form {
     display: block;
+}
+
+.send-button:hover {
+    background-color: #1938c2e1;
+    border-color: #1938c2e1;
+}
+
+.send-button {
+    border-color: #1938c2e1;
+    color: #1938c2e1
 }
