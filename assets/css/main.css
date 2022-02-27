@@ -1,0 +1,72 @@
+.container-fluid {
+    height: 100vh;
+    padding: 0 80px 0 80px;
+    background-color: #fff;
+}
+
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.right {
+    width: 100%;
+    height: 210px;
+    background-color: #1938c20e;
+    padding: 20px 0 20px 0;
+    border-radius: 5px;
+
+}
+
+.form-control {
+    font-size: 14px;
+}
+
+.footer {
+    font-size: 10px;
+    background-image: url(/assets/images/backgroundFooter.png);
+    background-repeat: repeat;
+    background-position: top;
+    background-size: contain;
+    width: 100%;
+    height: 70px;
+}
+
+.logo {
+    width: 100%;
+    max-width: 327px;
+}
+
+.img-logo {
+    width: 100%;
+    height: auto;
+}
+
+.img-whatsapp {
+    width: 20px;
+    height: auto;
+}
+
+.img-instagram {
+    width: 20px;
+    height: auto;
+}
+
+.form {
+    display: block;
+}
+
+.send-button:hover {
+    background-color: #1938c2e1;
+    border-color: #1938c2e1;
+}
+
+.send-button {
+    border-color: #1938c2e1;
+    color: #1938c2e1
+}
+.middle {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    height: calc(100% - 200px);
+}
